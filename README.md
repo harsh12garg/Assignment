@@ -1,5 +1,11 @@
 # Form Builder Application
 
+[![Live Site](https://img.shields.io/badge/Live%20Demo-Visit%20Now-green?style=flat-square)](https://assignment-x966.vercel.app)
+
+A modern, dynamic form builder application built with React, TypeScript, and Vite.  
+🚀 **Live Demo**: [https://assignment-x966.vercel.app](https://assignment-x966.vercel.app)
+
+This application allows users to create, preview, and manage various types of forms with a beautiful and responsive user interface.
 A modern, dynamic form builder application built with React, TypeScript, and Vite. This application allows users to create, preview, and manage various types of forms with a beautiful and responsive user interface.
 
 ## Features
